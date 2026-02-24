@@ -1,6 +1,5 @@
-// share.js
 document.addEventListener("DOMContentLoaded", () => {
-  const shareButtons = document.querySelectorAll("[data-share]");
+  const shareButtons = document.querySelectorAll(".pill-share");
 
   shareButtons.forEach(btn => {
     btn.addEventListener("click", async () => {
