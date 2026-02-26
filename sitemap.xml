@@ -1,6 +1,235 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
     <loc>https://sanremo.net/</loc>
+    <lastmod>2026-02-26T12:38:18.332Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://sanremo.net/inference-83.html</loc>
+    <lastmod>2026-02-26T10:35:34.925Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sanremo.net/inference-82.html</loc>
+    <lastmod>2026-02-26T09:34:56.942Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sanremo.net/inference-81.html</loc>
+    <lastmod>2026-02-26T09:28:38.356Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sanremo.net/inference-78.html</loc>
+    <lastmod>2026-02-25T23:44:57.663Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sanremo.net/inference-77.html</loc>
+    <lastmod>2026-02-25T23:14:25.029Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sanremo.net/inference-76.html</loc>
+    <lastmod>2026-02-25T23:05:34.643Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sanremo.net/inference-75.html</loc>
+    <lastmod>2026-02-25T22:34:57.861Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sanremo.net/inference-70.html</loc>
+    <lastmod>2026-02-25T21:56:35.085Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sanremo.net/inference-67.html</loc>
+    <lastmod>2026-02-25T21:15:38.175Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sanremo.net/inference-66.html</loc>
+    <lastmod>2026-02-25T20:45:04.438Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sanremo.net/inference-63.html</loc>
+    <lastmod>2026-02-25T19:38:33.094Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sanremo.net/inference-62.html</loc>
+    <lastmod>2026-02-25T18:01:45.953Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sanremo.net/inference-59.html</loc>
+    <lastmod>2026-02-25T09:41:20.537Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sanremo.net/inference-54.html</loc>
+    <lastmod>2026-02-25T00:40:32.478Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sanremo.net/inference-49.html</loc>
+    <lastmod>2026-02-25T00:09:03.966Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sanremo.net/inference-45.html</loc>
+    <lastmod>2026-02-24T23:46:07.277Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sanremo.net/inference-43.html</loc>
+    <lastmod>2026-02-24T23:31:17.233Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sanremo.net/inference-41.html</loc>
+    <lastmod>2026-02-24T22:19:42.906Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sanremo.net/inference-40.html</loc>
+    <lastmod>2026-02-24T21:49:10.526Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sanremo.net/inference-39.html</loc>
+    <lastmod>2026-02-24T21:18:29.172Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sanremo.net/inference-38.html</loc>
+    <lastmod>2026-02-24T20:47:49.517Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sanremo.net/inference-37.html</loc>
+    <lastmod>2026-02-24T20:43:24.952Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sanremo.net/inference-34.html</loc>
+    <lastmod>2026-02-24T19:36:39.431Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sanremo.net/inference-32.html</loc>
+    <lastmod>2026-02-24T19:09:04.478Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sanremo.net/inference-28.html</loc>
+    <lastmod>2026-02-24T16:51:45.791Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sanremo.net/inference-26.html</loc>
+    <lastmod>2026-02-24T14:50:55.020Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sanremo.net/inference-24.html</loc>
+    <lastmod>2026-02-24T13:33:09.715Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sanremo.net/inference-23.html</loc>
+    <lastmod>2026-02-24T12:32:41.373Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sanremo.net/inference-20.html</loc>
+    <lastmod>2026-02-24T09:42:13.083Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sanremo.net/inference-18.html</loc>
+    <lastmod>2026-02-23T22:15:00.081Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sanremo.net/inference-16.html</loc>
+    <lastmod>2026-02-23T14:17:21.426Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sanremo.net/inference-15.html</loc>
+    <lastmod>2026-02-23T11:54:59.251Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
