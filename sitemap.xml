@@ -4,9 +4,16 @@
 
   <url>
     <loc>https://sanremo.net/</loc>
-    <lastmod>2026-02-27T19:58:17.209Z</lastmod>
+    <lastmod>2026-02-27T20:23:47.841Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://sanremo.net/inference-127.html</loc>
+    <lastmod>2026-02-27T20:11:25.682Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
 
   <url>
