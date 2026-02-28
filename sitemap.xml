@@ -4,7 +4,7 @@
 
   <url>
     <loc>https://sanremo.net/</loc>
-    <lastmod>2026-02-28T21:58:26.168Z</lastmod>
+    <lastmod>2026-02-28T22:01:05.220Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -19,20 +19,6 @@
   <url>
     <loc>https://sanremo.net/inference-165.html</loc>
     <lastmod>2026-02-28T21:43:53.033Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://sanremo.net/inference-164.html</loc>
-    <lastmod>2026-02-28T21:41:31.223Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://sanremo.net/inference-163.html</loc>
-    <lastmod>2026-02-28T21:19:13.318Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
